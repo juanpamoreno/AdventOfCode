@@ -1,2 +1,3 @@
 # AdventOfCode
-Solutions to Advent Of Code problems
+
+Practice with Advent Of Code problems.
